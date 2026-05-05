@@ -28,4 +28,4 @@ Memberikan insight tentang struktur tenaga kerja yang dapat digunakan untuk peng
 ---
 
 ## 📎 Dataset
-Dataset karyawan (employee dataset)
+Dataset karyawan digunakan dalam format CSV (employees.csv)
