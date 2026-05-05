@@ -28,4 +28,10 @@ Memberikan insight tentang struktur tenaga kerja yang dapat digunakan untuk peng
 ---
 
 ## 📎 Dataset
-Dataset karyawan digunakan dalam format CSV (employees.csv)
+Dataset karyawan digunakan dalam format CSV (Employees.csv) dengan informasi:
+- Nama karyawan
+- Departemen
+- Gaji
+- Tanggal lahir
+- Gender
+  Dataset digunakan untuk simulasi analisis tenaga kerja dan tidak merepresentasikan data asli perusahaan
