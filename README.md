@@ -34,4 +34,4 @@ Dataset karyawan digunakan dalam format CSV (Employees.csv) dengan informasi:
 - Gaji
 - Tanggal lahir
 - Gender
-  Dataset digunakan untuk simulasi analisis tenaga kerja dan tidak merepresentasikan data asli perusahaan
+- Dataset digunakan untuk simulasi analisis tenaga kerja dan tidak merepresentasikan data asli perusahaan
