@@ -28,4 +28,4 @@ Secara keseluruhan, data menunjukkan bahwa perusahaan memiliki distribusi tenaga
 - Perlu evaluasi keseimbangan gender untuk meningkatkan keberagaman tenaga kerja
 - Struktur gaji dapat ditinjau untuk memastikan distribusi yang lebih merata
 - Departemen dengan jumlah karyawan tinggi dapat dianalisis lebih lanjut terkait beban kerja
----
+
